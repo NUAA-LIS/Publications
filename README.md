@@ -1,5 +1,6 @@
 
 
+
 ![Build Status](https://travis-ci.org/benhamner/Metrics.png)
 
 欢迎
@@ -13,6 +14,12 @@
 
 Part 1 学术论文
 -------------
+
+- 2017
+
+	- [Duan L, Qin P, Qian L, et al. The Design Concept and Realization of University Library’s Online Lecture System[C]// 2017:00097.](https://www.researchgate.net/publication/321536614_The_Design_Concept_and_Realization_of_University_Library's_Online_Lecture_System)
+
+	- [Duan L, Qin P, Qian L, et al. Research on Domain Ontology Construction Based on Thesaurus of Geographical Science[C]// International Conference on Automation, Mechanical Control and Computational Engineering. 2017.](https://www.researchgate.net/publication/315472398_Research_on_Domain_Ontology_Construction_Based_on_Thesaurus_of_Geographical_Science?ev=auth_pub)
 
 - 2016
 
