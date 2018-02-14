@@ -27,6 +27,7 @@ Part 1 学术论文（持续补充中）
 - 2015
 
 	- [秦萍, 李雪琛, 梅秀秀. 高校潜力学科发展预测研究[J]. 情报杂志, 2015(1):88-91.](http://www.qbzz.org/oa/pdfdow.aspx?Sid=150118)
+	- [王晓冉, 钱玲飞. 企业技术竞争情报实施现状分析及启示[J]. 图书馆学研究, 2015(9):94-100.](http://xueshu.baidu.com/s?wd=paperuri%3A%28b32771d32283167c5408df07e5ac5c3a%29&filter=sc_long_sign&sc_ks_para=q%3D%E4%BC%81%E4%B8%9A%E6%8A%80%E6%9C%AF%E7%AB%9E%E4%BA%89%E6%83%85%E6%8A%A5%E5%AE%9E%E6%96%BD%E7%8E%B0%E7%8A%B6%E5%88%86%E6%9E%90%E5%8F%8A%E5%90%AF%E7%A4%BA&sc_us=3547034794656767994&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8)
 
 Part 2 学位论文（持续补充中）
 -------------------
